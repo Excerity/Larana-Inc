@@ -8,6 +8,6 @@ Changes:
 · About Us is now Mission Statement
 · All items for sale, their prices, pictures, and descriptions.
 · Added onhover on item
-· Added football, baseball, and basketball iconsfont awesome icons. 
-
+· Added football, baseball, and basketball font awesome icons. 
+· Added Bootstrap tooltip component over the football, baseball, and basketball menu categories
 
