@@ -4,7 +4,7 @@ Changes:
 · Logo
 · Name of company
 · Drink Menu is now Sport Equipment 
-· Drink Menu font awesome font is now 
+· Drink Menu font awesome font is now font awesome icon of a person running (same as company logo)
 · About Us is now Mission Statement
 · All items for sale, their prices, pictures, and descriptions.
 · Added onhover on item
